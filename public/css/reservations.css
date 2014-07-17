@@ -1,0 +1,32 @@
+
+div#reservations{
+    margin-top: 50px;
+}
+
+div#reservations button{
+    padding: 20px;
+    width: 120;
+}
+
+.taken{
+    background-color: red;
+
+}
+
+.free{
+    background-color: green;
+
+}
+
+#date {
+    font-size: 18px;
+    color: red;
+}
+
+#hidden {
+    display: none;
+}
+
+.readyToResv {
+    background-color: yellow;
+}
